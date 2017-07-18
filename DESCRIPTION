@@ -1,9 +1,9 @@
 Package: labr
 Title: A Collection of Regularly Used Analytical Tools in the Lab
 Version: 0.0.0.9000
-Authors@R: person(“Eric”, “Prince”, email = “ericprince82@gmail.com“, role = c("aut", "cre"))
 Description: Often times in the laboratory we need to calculate results obtained from assays utilizing absorbance data, flouresecence data, as well as - of course - genomic, transcriptomic, and proteomic data.  This package will serve as a collection point for my regularly used tools as they devlop.
 Depends: R (>= 3.4.0)
 License: Apache License 2.0
 Encoding: UTF-8
 LazyData: tru
+Maintainer: Eric Prince <ericprince82@gmail.com>
