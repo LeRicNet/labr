@@ -1,0 +1,10 @@
+Package: labr
+Title: A Collection of Regularly Used Analytical Tools in the Lab
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: To be completed...
+Depends: R (>= 3.4.0)
+License: Apache License 2.0
+Encoding: UTF-8
+LazyData: true
+Maintainer: 'Eric Prince' <ericprince82@gmail.com>
